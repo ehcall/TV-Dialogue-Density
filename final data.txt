@@ -1,0 +1,765 @@
+C:\Python27\python.exe C:/Users/Elena/PycharmProjects/TVSpeed/data_processing.py
+When Calls the Heart , 1 , 92.4444444433
+When Calls the Heart , 3 , 125.711358957
+When Calls the Heart , 2 , 115.968992233
+When Calls the Heart , 4 , 126.4047619
+When Calls the Heart , average , 115.132389383
+Arrow , 1 , 94.3821817774
+Arrow , 3 , 100.753747504
+Arrow , 2 , 89.5861471891
+Arrow , 5 , 119.439962492
+Arrow , 4 , 115.376979606
+Arrow , average , 103.907803714
+Vikings , 1 , 53.3611111111
+Vikings , 3 , 49.09714317
+Vikings , 2 , 55.447767032
+Vikings , 4 , 47.0604594315
+Vikings , average , 51.2416201862
+Rookie Blue , 1 , 115.096703711
+Rookie Blue , 3 , 119.966895515
+Rookie Blue , 2 , 118.560329292
+Rookie Blue , 5 , 128.34600072
+Rookie Blue , 4 , 121.979388992
+Rookie Blue , 6 , 127.5502114
+Rookie Blue , average , 121.916588272
+This Is Us , 1 , 112.059886037
+This Is Us , average , 112.059886037
+Janet King , 1 , 128.948865586
+Janet King , 2 , 113.844106986
+Janet King , average , 121.396486286
+Gotham , 1 , 93.4704863364
+Gotham , average , 93.4704863364
+UnREAL , 1 , 127.455227589
+UnREAL , 2 , 143.23426247
+UnREAL , average , 135.344745029
+Supernatural , 12 , 77.899535422
+Supernatural , 1 , 115.034802727
+Supernatural , 3 , 130.144566064
+Supernatural , 2 , 111.669559311
+Supernatural , 5 , 92.907709749
+Supernatural , 4 , 120.599247103
+Supernatural , 6 , 98.2409194805
+Supernatural , average , 106.642334265
+The Mysteries of Laura , 1 , 132.981536986
+The Mysteries of Laura , 2 , 130.391472858
+The Mysteries of Laura , average , 131.686504922
+Sons of Anarchy , 1 , 70.47919564
+Sons of Anarchy , 3 , 74.0175111
+Sons of Anarchy , 2 , 59.331919191
+Sons of Anarchy , average , 67.9428753103
+The Whispers , 1 , 85.1100435417
+The Whispers , average , 85.1100435417
+Teen Wolf , 1 , 83.069976772
+Teen Wolf , 3 , 77.9197120713
+Teen Wolf , 2 , 77.26688815
+Teen Wolf , 5 , 64.4267036318
+Teen Wolf , 4 , 73.3388444342
+Teen Wolf , average , 75.2044250118
+Kingdom , 1 , 94.122718143
+Kingdom , 2 , 96.4347943365
+Kingdom , average , 95.2787562397
+The Flash , 1 , 103.573799219
+The Flash , 3 , 120.191146262
+The Flash , 2 , 108.126235513
+The Flash , average , 110.630393665
+Grey's Anatomy , 1 , 98.7510981883
+Grey's Anatomy , 3 , 92.9168128639
+Grey's Anatomy , 2 , 100.089280686
+Grey's Anatomy , 5 , 87.490151515
+Grey's Anatomy , 4 , 100.60333334
+Grey's Anatomy , 6 , 86.8572567811
+Grey's Anatomy , average , 94.451322229
+Aquarius , 1 , 90.367441862
+Aquarius , 2 , 103.187400024
+Aquarius , average , 96.7774209432
+Boardwalk Empire , 1 , 81.8505892855
+Boardwalk Empire , 3 , 77.9521800591
+Boardwalk Empire , 2 , 81.6162129236
+Boardwalk Empire , 4 , 76.4429586625
+Boardwalk Empire , average , 79.4654852327
+The Astronaut Wives Club , 1 , 104.083259064
+The Astronaut Wives Club , average , 104.083259064
+Scandal , 1 , 144.813178325
+Scandal , 3 , 124.175500853
+Scandal , 2 , 127.1718335
+Scandal , 4 , 114.906976762
+Scandal , average , 127.76687236
+Defiance , 1 , 79.088778148
+Defiance , 3 , 83.9707029192
+Defiance , 2 , 95.9106638645
+Defiance , average , 86.3233816439
+The Strain , 1 , 70.97910164
+The Strain , 3 , 64.8229283878
+The Strain , 2 , 71.8120632609
+The Strain , average , 69.2046977629
+Shameless , 1 , 103.880621394
+Shameless , 2 , 107.306628668
+Shameless , average , 105.593625031
+Good Witch , 1 , 103.485714304
+Good Witch , 2 , 122.170731729
+Good Witch , average , 112.828223016
+Blue Bloods , 1 , 126.568531781
+Blue Bloods , 3 , 124.121543606
+Blue Bloods , 2 , 122.780989965
+Blue Bloods , 5 , 117.868732423
+Blue Bloods , 4 , 121.977522476
+Blue Bloods , 7 , 134.729524938
+Blue Bloods , 6 , 127.734154837
+Blue Bloods , average , 125.111571432
+Continuum , 1 , 75.6104166663
+Continuum , 3 , 97.7397595112
+Continuum , 2 , 86.22121212
+Continuum , 4 , 90.8140415767
+Continuum , average , 87.5963574685
+Conviction , 1 , 128.849009754
+Conviction , average , 128.849009754
+Red Band Society , 1 , 121.362930273
+Red Band Society , average , 121.362930273
+Heartland , 1 , 89.479710144
+Heartland , 3 , 109.408749328
+Heartland , 2 , 101.974708733
+Heartland , 5 , 116.933982679
+Heartland , 4 , 114.023438218
+Heartland , average , 106.36411782
+Dig , 1 , 56.833856376
+Dig , average , 56.833856376
+19-2 , 1 , 84.611559789
+19-2 , 3 , 86.549999995
+19-2 , 2 , 82.1436988933
+19-2 , average , 84.4350862258
+Rizzoli & Isles , 1 , 93.95804843
+Rizzoli & Isles , 3 , 122.782945733
+Rizzoli & Isles , 2 , 125.311911443
+Rizzoli & Isles , 5 , 129.152494433
+Rizzoli & Isles , 4 , 132.767314092
+Rizzoli & Isles , 7 , 125.033145708
+Rizzoli & Isles , 6 , 122.380537087
+Rizzoli & Isles , average , 121.626628132
+Van Helsing , 1 , 62.4857419725
+Van Helsing , average , 62.4857419725
+Reign , 1 , 117.148073327
+Reign , 3 , 128.979444217
+Reign , 2 , 126.301583655
+Reign , 4 , 144.0055168
+Reign , average , 129.1086545
+Graceland , 1 , 116.035965994
+Graceland , 3 , 101.969407512
+Graceland , 2 , 103.156731343
+Graceland , average , 107.05403495
+The 100 , 1 , 84.3791181582
+The 100 , 2 , 64.083554818
+The 100 , average , 74.2313364881
+Suits , 1 , 127.36622167
+Suits , 3 , 149.578463669
+Suits , 2 , 138.676259685
+Suits , 5 , 162.148639531
+Suits , 4 , 152.259815929
+Suits , 6 , 167.075651807
+Suits , average , 149.517508715
+The Walking Dead , 1 , 99.9687338575
+The Walking Dead , 3 , 61.6141494138
+The Walking Dead , 2 , 71.0112816623
+The Walking Dead , 5 , 55.2676171281
+The Walking Dead , 4 , 52.5291620527
+The Walking Dead , 7 , 54.469360884
+The Walking Dead , 6 , 51.633308395
+The Walking Dead , average , 63.7848019133
+The Coroner , 1 , 109.288816734
+The Coroner , 2 , 108.001178117
+The Coroner , average , 108.644997426
+The Night Shift , 1 , 133.7375103
+The Night Shift , 3 , 164.526125045
+The Night Shift , 2 , 144.752496957
+The Night Shift , average , 147.672044101
+The Path , 1 , 75.1607777457
+The Path , 2 , 90.08973228
+The Path , average , 82.6252550129
+Angel , 1 , 153.720965713
+Angel , 3 , 177.331949668
+Angel , 2 , 171.515325064
+Angel , 4 , 169.252860833
+Angel , average , 167.95527532
+Ghost Whisperer , 1 , 99.8517660352
+Ghost Whisperer , 3 , 98.359203646
+Ghost Whisperer , 2 , 97.790359536
+Ghost Whisperer , 5 , 117.631842229
+Ghost Whisperer , 4 , 110.524928666
+Ghost Whisperer , average , 104.831620022
+Person of Interest , 1 , 99.0536144567
+Person of Interest , 3 , 97.5775601338
+Person of Interest , 2 , 100.598733454
+Person of Interest , 4 , 91.86046512
+Person of Interest , average , 97.2725932911
+Skins , 1 , 64.0952380971
+Skins , 3 , 78.2158730157
+Skins , 2 , 63.944444445
+Skins , 5 , 64.79552594
+Skins , 4 , 62.5238095233
+Skins , 6 , 58.551248842
+Skins , average , 65.3543566439
+The Messengers , 1 , 93.623882319
+The Messengers , average , 93.623882319
+Tyrant , 1 , 91.043893039
+Tyrant , 3 , 86.1840697913
+Tyrant , 2 , 81.934704725
+Tyrant , average , 86.3875558518
+Devious Maids , 1 , 97.7528669858
+Devious Maids , 3 , 117.888727169
+Devious Maids , 2 , 109.997575558
+Devious Maids , 4 , 128.965608467
+Devious Maids , average , 113.651194545
+Game of Silence , 1 , 113.673255816
+Game of Silence , average , 113.673255816
+State of Affairs , 1 , 89.6338086033
+State of Affairs , average , 89.6338086033
+Chicago Fire , 1 , 92.484711561
+Chicago Fire , 3 , 96.0968300075
+Chicago Fire , 2 , 95.8649309765
+Chicago Fire , 5 , 91.9402244171
+Chicago Fire , 4 , 93.3165197214
+Chicago Fire , average , 93.9406433367
+The Musketeers , 1 , 79.493697833
+The Musketeers , 3 , 61.4822492162
+The Musketeers , 2 , 71.262511691
+The Musketeers , average , 70.7461529134
+Chicago Med , 1 , 107.462107643
+Chicago Med , 2 , 109.633444069
+Chicago Med , average , 108.547775856
+The Missing , 1 , 58.556234866
+The Missing , 2 , 64.1665327287
+The Missing , average , 61.3613837974
+Forever , 1 , 115.452857011
+Forever , average , 115.452857011
+Allegiance , 1 , 97.3571610169
+Allegiance , average , 97.3571610169
+MacGyver , 1 , 119.51436101
+MacGyver , average , 119.51436101
+White Collar , 1 , 108.616513137
+White Collar , 3 , 122.357492075
+White Collar , 2 , 115.75379902
+White Collar , 5 , 119.32379855
+White Collar , 4 , 119.97483304
+White Collar , 6 , 113.954609802
+White Collar , average , 116.663507604
+Lucifer , 1 , 120.032071125
+Lucifer , 2 , 122.850546746
+Lucifer , average , 121.441308936
+Killjoys , 1 , 101.936046512
+Killjoys , 2 , 107.714539603
+Killjoys , average , 104.825293058
+Fargo , 1 , 65.3450870467
+Fargo , 2 , 63.750920175
+Fargo , average , 64.5480036108
+Friday Night Lights , 1 , 128.417380668
+Friday Night Lights , 3 , 125.239160062
+Friday Night Lights , 2 , 117.609634559
+Friday Night Lights , 5 , 121.669525983
+Friday Night Lights , 4 , 124.532769545
+Friday Night Lights , average , 123.493694163
+No Tomorrow , 1 , 122.051442117
+No Tomorrow , average , 122.051442117
+The Librarians , 1 , 114.752310817
+The Librarians , 3 , 109.94178608
+The Librarians , 2 , 122.96904762
+The Librarians , average , 115.887714839
+Falling Skies , 1 , 94.5485489657
+Falling Skies , 3 , 116.855813963
+Falling Skies , 2 , 94.735215948
+Falling Skies , 5 , 90.519933559
+Falling Skies , 4 , 103.12619046
+Falling Skies , average , 99.9571405791
+Scream Queens , 1 , 138.336937885
+Scream Queens , 2 , 127.826625978
+Scream Queens , average , 133.081781931
+The O.C. , 1 , 159.526691332
+The O.C. , 3 , 160.704171067
+The O.C. , 2 , 168.3149122
+The O.C. , 4 , 135.302750088
+The O.C. , average , 155.962131172
+Madam Secretary , 1 , 130.5817967
+Madam Secretary , 3 , 135.970355223
+Madam Secretary , 2 , 130.800398313
+Madam Secretary , average , 132.450850079
+Salem , 1 , 84.4313540056
+Salem , 3 , 76.591274505
+Salem , 2 , 84.5224075167
+Salem , average , 81.8483453424
+Bull , 1 , 139.603735238
+Bull , average , 139.603735238
+Ray Donovan , 1 , 73.27935097
+Ray Donovan , 3 , 79.6373808133
+Ray Donovan , 2 , 76.2113390542
+Ray Donovan , 4 , 72.9734897909
+Ray Donovan , average , 75.5253901571
+True Detective , 1 , 88.7163532017
+True Detective , 2 , 82.12730992
+True Detective , average , 85.4218315608
+Agents of S.H.I.E.L.D. , 1 , 100.680217609
+Agents of S.H.I.E.L.D. , 3 , 103.235678332
+Agents of S.H.I.E.L.D. , 2 , 105.063653951
+Agents of S.H.I.E.L.D. , 4 , 105.486776568
+Agents of S.H.I.E.L.D. , average , 103.616581615
+Hart of Dixie , 1 , 120.167460306
+Hart of Dixie , 3 , 125.7619048
+Hart of Dixie , 2 , 134.636896635
+Hart of Dixie , average , 126.85542058
+Backstrom , 1 , 116.831514138
+Backstrom , average , 116.831514138
+The Vampire Diaries , 1 , 95.2143184285
+The Vampire Diaries , 3 , 101.396305163
+The Vampire Diaries , 2 , 96.1665265475
+The Vampire Diaries , 5 , 105.265055208
+The Vampire Diaries , 4 , 104.083462531
+The Vampire Diaries , 7 , 113.1349206
+The Vampire Diaries , 6 , 126.008709582
+The Vampire Diaries , 8 , 109.356213689
+The Vampire Diaries , average , 106.328188969
+The Last Ship , 1 , 90.3721653663
+The Last Ship , 3 , 89.90229068
+The Last Ship , 2 , 92.8123800308
+The Last Ship , average , 91.028945359
+Timeless , 1 , 100.868240127
+Timeless , average , 100.868240127
+Agent Carter , 1 , 102.801323948
+Agent Carter , 2 , 107.531604673
+Agent Carter , average , 105.166464311
+The Mentalist , 1 , 122.337677995
+The Mentalist , 3 , 104.296906452
+The Mentalist , 2 , 135.312141292
+The Mentalist , 5 , 111.743952572
+The Mentalist , 4 , 113.824159498
+The Mentalist , 7 , 109.740083629
+The Mentalist , 6 , 104.558606574
+The Mentalist , average , 114.544789716
+Witches of East End , 1 , 107.559457978
+Witches of East End , 2 , 95.387842749
+Witches of East End , average , 101.473650363
+The Carrie Diaries , 1 , 136.714716389
+The Carrie Diaries , 2 , 132.11661129
+The Carrie Diaries , average , 134.415663839
+Sleepy Hollow , 1 , 75.2145866691
+Sleepy Hollow , 3 , 86.59158388
+Sleepy Hollow , 2 , 90.7029862556
+Sleepy Hollow , 4 , 96.9072428029
+Sleepy Hollow , average , 87.3540999019
+The Leftovers , 1 , 57.4098323056
+The Leftovers , 2 , 61.2362883633
+The Leftovers , average , 59.3230603344
+Legends of Tomorrow , 1 , 110.936589606
+Legends of Tomorrow , 2 , 113.502642293
+Legends of Tomorrow , average , 112.21961595
+Wynonna Earp , 1 , 96.93023256
+Wynonna Earp , average , 96.93023256
+Heroes Reborn , 1 , 84.079601253
+Heroes Reborn , average , 84.079601253
+One Tree Hill , 1 , 113.171619349
+One Tree Hill , 3 , 118.180907358
+One Tree Hill , 2 , 128.073418477
+One Tree Hill , average , 119.808648395
+CSI: Crime Scene Investigation , 15 , 123.82861157
+CSI: Crime Scene Investigation , 1 , 112.424000864
+CSI: Crime Scene Investigation , 3 , 112.82261702
+CSI: Crime Scene Investigation , 2 , 111.250511728
+CSI: Crime Scene Investigation , 5 , 120.337004414
+CSI: Crime Scene Investigation , 4 , 112.942480333
+CSI: Crime Scene Investigation , 6 , 113.464343436
+CSI: Crime Scene Investigation , average , 115.295652766
+Battle Creek , 1 , 93.2593406569
+Battle Creek , average , 93.2593406569
+Outlander , 1 , 71.1914158181
+Outlander , 2 , 72.7351886358
+Outlander , average , 71.963302227
+The Following , 1 , 83.0778724423
+The Following , 3 , 88.2380556864
+The Following , 2 , 87.240645906
+The Following , average , 86.1855246782
+The Art of More , 1 , 109.48768499
+The Art of More , 2 , 96.616020665
+The Art of More , average , 103.051852827
+Chasing Life , 1 , 119.306756838
+Chasing Life , 2 , 126.757324073
+Chasing Life , average , 123.032040455
+Motive , 1 , 113.862277248
+Motive , 3 , 123.9447968
+Motive , 2 , 117.850800364
+Motive , 4 , 126.551136367
+Motive , average , 120.552252695
+Dawson's Creek , 1 , 213.3809524
+Dawson's Creek , 3 , 125.629564335
+Dawson's Creek , 2 , 117.165456895
+Dawson's Creek , 5 , 135.074894296
+Dawson's Creek , 4 , 139.176703024
+Dawson's Creek , 6 , 139.771024359
+Dawson's Creek , average , 145.033099218
+Greenleaf , 1 , 102.411519871
+Greenleaf , average , 102.411519871
+Breaking Bad , 1 , 64.520833335
+Breaking Bad , 2 , 67.0482607515
+Breaking Bad , average , 65.7845470433
+Rectify , 1 , 67.7160701217
+Rectify , 3 , 82.4920624083
+Rectify , 2 , 77.0533189029
+Rectify , 4 , 81.96969697
+Rectify , average , 77.3077871007
+Finding Carter , 1 , 103.907735184
+Finding Carter , 2 , 117.22346399
+Finding Carter , average , 110.565599587
+Dexter , 1 , 89.858398562
+Dexter , 3 , 102.077392022
+Dexter , 2 , 87.2034873413
+Dexter , average , 93.0464259751
+Legends , 1 , 98.695284564
+Legends , 2 , 70.672588751
+Legends , average , 84.6839366575
+Hunters , 1 , 76.1141379885
+Hunters , average , 76.1141379885
+Paranormal Witness , 1 , 109.5813953
+Paranormal Witness , 3 , 78.4237003323
+Paranormal Witness , 2 , 98.6845930229
+Paranormal Witness , 5 , 73.0833333342
+Paranormal Witness , 4 , 77.6117365525
+Paranormal Witness , average , 87.4769517084
+Cedar Cove , 1 , 118.666666664
+Cedar Cove , 3 , 120.5990354
+Cedar Cove , 2 , 105.326744193
+Cedar Cove , average , 114.864148752
+Helix , 1 , 84.9910250262
+Helix , 2 , 81.9278654245
+Helix , average , 83.4594452254
+Saving Hope , 1 , 111.791943826
+Saving Hope , 3 , 118.004651169
+Saving Hope , 2 , 118.732619667
+Saving Hope , 4 , 120.068521581
+Saving Hope , average , 117.149434061
+Law & Order: Special Victims Unit , 1 , 120.787021724
+Law & Order: Special Victims Unit , 3 , 135.94907931
+Law & Order: Special Victims Unit , 2 , 130.113854823
+Law & Order: Special Victims Unit , average , 128.949985286
+Wayward Pines , 1 , 75.0909090925
+Wayward Pines , 2 , 73.641762307
+Wayward Pines , average , 74.3663356997
+Bosch , 2 , 92.68402895
+Bosch , average , 92.68402895
+Fear the Walking Dead , 1 , 64.614965085
+Fear the Walking Dead , 2 , 55.719466036
+Fear the Walking Dead , average , 60.1672155605
+Perception , 1 , 131.294988925
+Perception , 3 , 133.079539587
+Perception , 2 , 134.748180679
+Perception , average , 133.040903063
+The Red Road , 1 , 68.13581467
+The Red Road , 2 , 81.299770965
+The Red Road , average , 74.7177928175
+Black Sails , 1 , 81.0114273337
+Black Sails , 3 , 84.429435914
+Black Sails , 2 , 89.011807502
+Black Sails , 4 , 77.7346311775
+Black Sails , average , 83.0468254818
+American Gothic , 1 , 98.4443799055
+American Gothic , average , 98.4443799055
+The Royals , 1 , 92.088912249
+The Royals , 3 , 91.7790697583
+The Royals , 2 , 87.6212624571
+The Royals , average , 90.4964148215
+Olympus , 1 , 75.0526206346
+Olympus , average , 75.0526206346
+Mercy Street , 1 , 96.816678315
+Mercy Street , 2 , 99.282051285
+Mercy Street , average , 98.0493648
+Under the Dome , 1 , 87.91943908
+Under the Dome , 3 , 100.249349414
+Under the Dome , 2 , 98.563545295
+Under the Dome , average , 95.5774445962
+Blindspot , 1 , 106.249079591
+Blindspot , 2 , 118.278170705
+Blindspot , average , 112.263625148
+The Knick , 1 , 84.1242597133
+The Knick , 2 , 86.3146234071
+The Knick , average , 85.2194415602
+Pretty Little Liars , 1 , 82.5271072129
+Pretty Little Liars , 3 , 97.1705615092
+Pretty Little Liars , 2 , 98.3682313611
+Pretty Little Liars , 5 , 104.913268891
+Pretty Little Liars , 4 , 97.7162475447
+Pretty Little Liars , 7 , 90.943089432
+Pretty Little Liars , average , 95.2730843252
+Charmed , 1 , 126.730158725
+Charmed , average , 126.730158725
+The Americans , 1 , 79.4310122383
+The Americans , 3 , 63.2454593618
+The Americans , 2 , 70.7854174118
+The Americans , 4 , 57.4142283492
+The Americans , average , 67.7190293403
+Dark Matter , 2 , 93.3340380536
+Dark Matter , average , 93.3340380536
+Gossip Girl , 1 , 132.158730158
+Gossip Girl , 3 , 121.583959895
+Gossip Girl , 2 , 127.93877551
+Gossip Girl , 4 , 125.6190476
+Gossip Girl , average , 126.825128291
+Chuck , 1 , 113.194012383
+Chuck , 3 , 110.064723641
+Chuck , 2 , 109.074432458
+Chuck , average , 110.777722827
+12 Monkeys , 1 , 72.3590791633
+12 Monkeys , 2 , 77.8695551
+12 Monkeys , average , 75.1143171317
+Crazy Ex-Girlfriend , 1 , 120.427218831
+Crazy Ex-Girlfriend , 2 , 123.941358367
+Crazy Ex-Girlfriend , average , 122.184288599
+Crossing Lines , 1 , 94.48255813
+Crossing Lines , 2 , 100.972761848
+Crossing Lines , average , 97.7276599889
+Supergirl , 1 , 105.946509123
+Supergirl , 2 , 108.298490133
+Supergirl , average , 107.122499628
+Criminal Minds: Beyond Borders , 1 , 120.493505954
+Criminal Minds: Beyond Borders , average , 120.493505954
+Halt and Catch Fire , 1 , 98.7338501233
+Halt and Catch Fire , 3 , 99.842524185
+Halt and Catch Fire , 2 , 102.879762259
+Halt and Catch Fire , average , 100.485378856
+Shades of Blue , 1 , 112.50575858
+Shades of Blue , average , 112.50575858
+Lost Girl , 1 , 101.978956224
+Lost Girl , 3 , 84.5206349229
+Lost Girl , 2 , 99.3851851883
+Lost Girl , 4 , 88.744444445
+Lost Girl , average , 93.6573051952
+The Exorcist , 1 , 77.596594798
+The Exorcist , average , 77.596594798
+Second Chance , 1 , 102.691754748
+Second Chance , average , 102.691754748
+The Tomorrow People , 1 , 99.0836101874
+The Tomorrow People , average , 99.0836101874
+Gilmore Girls , 1 , 171.287519244
+Gilmore Girls , 3 , 198.27770272
+Gilmore Girls , 2 , 193.743225138
+Gilmore Girls , 5 , 196.980179714
+Gilmore Girls , 4 , 191.132960558
+Gilmore Girls , 7 , 143.433786867
+Gilmore Girls , 6 , 204.0601979
+Gilmore Girls , average , 185.559367449
+Miss Fisher's Murder Mysteries , 1 , 95.2761540825
+Miss Fisher's Murder Mysteries , 2 , 101.921490138
+Miss Fisher's Murder Mysteries , average , 98.59882211
+Major Crimes , 1 , 129.763389711
+Major Crimes , 3 , 137.874866188
+Major Crimes , 2 , 133.763937612
+Major Crimes , 5 , 141.357142882
+Major Crimes , 4 , 138.17374453
+Major Crimes , average , 136.186616185
+I Am Cait , 1 , 162.246212117
+I Am Cait , 2 , 154.453488367
+I Am Cait , average , 158.349850242
+Billions , 1 , 108.518248723
+Billions , 2 , 116.62296365
+Billions , average , 112.570606186
+Queen Sugar , 1 , 93.6499483164
+Queen Sugar , average , 93.6499483164
+Frequency , 1 , 104.426963272
+Frequency , average , 104.426963272
+The Expanse , 1 , 84.1955518667
+The Expanse , 2 , 98.3668789367
+The Expanse , average , 91.2812154017
+Elementary , 1 , 137.139786225
+Elementary , average , 137.139786225
+Designated Survivor , 1 , 128.2085744
+Designated Survivor , average , 128.2085744
+The Romeo Section , 1 , 83.181818183
+The Romeo Section , 2 , 93.988636356
+The Romeo Section , average , 88.5852272695
+Bitten , 1 , 91.83343468
+Bitten , 3 , 82.720466291
+Bitten , 2 , 75.701170602
+Bitten , average , 83.418357191
+Homeland , 1 , 85.5278091264
+Homeland , 3 , 78.3743437736
+Homeland , 2 , 75.5008264418
+Homeland , 5 , 73.523520395
+Homeland , 4 , 92.9426876414
+Homeland , 6 , 93.6878760233
+Homeland , average , 83.2595105669
+Longmire , 1 , 101.055151508
+Longmire , 2 , 103.975863286
+Longmire , average , 102.515507397
+Bates Motel , 1 , 79.8605236378
+Bates Motel , 3 , 81.343861677
+Bates Motel , 2 , 85.802496737
+Bates Motel , 5 , 73.53488372
+Bates Motel , 4 , 82.024762822
+Bates Motel , average , 80.5133057188
+The Returned , 1 , 57.773598793
+The Returned , average , 57.773598793
+Criminal Minds , 11 , 111.290681044
+Criminal Minds , 12 , 118.727922464
+Criminal Minds , 1 , 118.563372086
+Criminal Minds , 3 , 116.533834578
+Criminal Minds , 2 , 113.819491912
+Criminal Minds , 5 , 117.511904773
+Criminal Minds , 4 , 118.684567996
+Criminal Minds , 6 , 117.081145934
+Criminal Minds , average , 116.526615098
+Stitchers , 1 , 108.61154737
+Stitchers , 2 , 123.625269629
+Stitchers , average , 116.118408499
+Justified , 1 , 126.832628249
+Justified , 3 , 134.17521514
+Justified , 2 , 118.943977931
+Justified , 4 , 136.415901778
+Justified , average , 129.091930775
+Mad Dogs , 1 , 74.906428572
+Mad Dogs , average , 74.906428572
+The Magicians , 1 , 89.15870518
+The Magicians , 2 , 89.897348892
+The Magicians , average , 89.528027036
+Preacher , 1 , 65.487002936
+Preacher , average , 65.487002936
+Power , 1 , 92.7033520517
+Power , 3 , 103.201360776
+Power , 2 , 100.80449706
+Power , average , 98.9030699626
+Nashville , 1 , 107.901515163
+Nashville , average , 107.901515163
+Revenge , 1 , 100.924242415
+Revenge , 3 , 110.959428058
+Revenge , 2 , 106.971775898
+Revenge , 4 , 111.58216119
+Revenge , average , 107.609401891
+Dead of Summer , 1 , 73.005863786
+Dead of Summer , average , 73.005863786
+Game of Thrones , 1 , 84.6188069867
+Game of Thrones , 3 , 79.3004036912
+Game of Thrones , 2 , 88.9759578587
+Game of Thrones , 5 , 70.873796915
+Game of Thrones , 4 , 75.4079407433
+Game of Thrones , 6 , 65.6718762844
+Game of Thrones , average , 77.4747970799
+Murdoch Mysteries , 1 , 110.289583323
+Murdoch Mysteries , 3 , 108.998397436
+Murdoch Mysteries , 2 , 113.958333334
+Murdoch Mysteries , 5 , 106.870833334
+Murdoch Mysteries , 4 , 110.615530291
+Murdoch Mysteries , average , 110.146535544
+The Killing , 1 , 96.3607783508
+The Killing , 3 , 107.788671603
+The Killing , 2 , 95.671987319
+The Killing , average , 99.940479091
+Extant , 1 , 111.491658685
+Extant , 2 , 99.46330139
+Extant , average , 105.477480038
+Transporter: The Series , 1 , 67.444560534
+Transporter: The Series , 2 , 64.9721516629
+Transporter: The Series , average , 66.2083560984
+Pure Genius , 1 , 114.599806206
+Pure Genius , average , 114.599806206
+Covert Affairs , 1 , 96.4700801622
+Covert Affairs , 2 , 101.140671834
+Covert Affairs , average , 98.8053759981
+Damien , 1 , 63.523200444
+Damien , average , 63.523200444
+Feed the Beast , 1 , 97.018730155
+Feed the Beast , average , 97.018730155
+Pitch , 1 , 118.32129776
+Pitch , average , 118.32129776
+CSI: Cyber , 1 , 115.719235748
+CSI: Cyber , 2 , 130.049129688
+CSI: Cyber , average , 122.884182718
+Better Call Saul , 1 , 89.6871105989
+Better Call Saul , 2 , 86.066863761
+Better Call Saul , average , 87.8769871799
+Chicago P.D. , 1 , 97.6261606723
+Chicago P.D. , 3 , 106.282178198
+Chicago P.D. , 2 , 102.653600072
+Chicago P.D. , 4 , 112.858238845
+Chicago P.D. , average , 104.855044447
+Banshee , 1 , 63.0961867389
+Banshee , 3 , 59.5902547375
+Banshee , 2 , 67.8806709278
+Banshee , 4 , 60.7121761657
+Banshee , average , 62.8198221425
+Powers , 1 , 83.2939394233
+Powers , 2 , 101.245129069
+Powers , average , 92.269534246
+The Man in the High Castle , 1 , 62.8554466956
+The Man in the High Castle , 2 , 65.725169571
+The Man in the High Castle , average , 64.2903081333
+American Odyssey , 1 , 83.3264957285
+American Odyssey , average , 83.3264957285
+The Good Wife , 1 , 120.261515605
+The Good Wife , 3 , 129.145255156
+The Good Wife , 2 , 124.740867892
+The Good Wife , 5 , 128.512593713
+The Good Wife , 4 , 131.858773767
+The Good Wife , 7 , 122.730167729
+The Good Wife , 6 , 132.842803025
+The Good Wife , average , 127.155996698
+NCIS: New Orleans , 1 , 115.148259918
+NCIS: New Orleans , average , 115.148259918
+Ripper Street , 1 , 79.0053259814
+Ripper Street , 3 , 80.34920635
+Ripper Street , 2 , 83.9161378467
+Ripper Street , 5 , 80.2002903
+Ripper Street , 4 , 82.565567765
+Ripper Street , average , 81.2073056486
+Roswell , 1 , 97.6431497413
+Roswell , 3 , 119.827461872
+Roswell , 2 , 103.048474779
+Roswell , average , 106.839695464
+Orphan Black , 1 , 83.601313132
+Orphan Black , 3 , 88.962803915
+Orphan Black , 2 , 81.566119332
+Orphan Black , average , 84.710078793
+Good Behavior , 1 , 86.349324437
+Good Behavior , average , 86.349324437
+How to Get Away with Murder , 1 , 114.801421458
+How to Get Away with Murder , 3 , 110.688617307
+How to Get Away with Murder , 2 , 118.213904827
+How to Get Away with Murder , average , 114.567981197
+Mr. Robot , 1 , 87.1452460911
+Mr. Robot , 2 , 75.6117224488
+Mr. Robot , average , 81.3784842699
+Da Vinci's Demons , 1 , 85.667371815
+Da Vinci's Demons , 3 , 63.8180373825
+Da Vinci's Demons , 2 , 75.9111408222
+Da Vinci's Demons , average , 75.1321833399
+Empire , 1 , 108.843332438
+Empire , 3 , 110.407513522
+Empire , 2 , 109.464196518
+Empire , average , 109.571680826
+Beyond , 1 , 80.311338898
+Beyond , average , 80.311338898
+American Horror Story , 1 , 94.22871287
+American Horror Story , 3 , 81.432656788
+American Horror Story , 2 , 90.53847403
+American Horror Story , 5 , 73.9697203909
+American Horror Story , 4 , 81.2307361418
+American Horror Story , 6 , 84.4013199687
+American Horror Story , average , 84.3002700316
+Falling Water , 1 , 56.891601621
+Falling Water , average , 56.891601621
+Eye Candy , 1 , 85.949509292
+Eye Candy , average , 85.949509292
+total average , 100.393729231
+2009 , 106.367163834
+2003 , 140.368337664
+1999 , 120.938638457
+1998 , 126.578601633
+2002 , 149.695676908
+2008 , 110.10148207
+2000 , 130.705629367
+2001 , 138.185738028
+2006 , 117.850077039
+2007 , 107.821212542
+2004 , 145.727152826
+2005 , 132.783127384
+2015 , 99.3776179919
+2014 , 99.9028961101
+2017 , 107.654061372
+2016 , 100.724449352
+2011 , 105.098620545
+2010 , 109.280246989
+2013 , 102.018701644
+2012 , 106.627246788
+
+Process finished with exit code 0
